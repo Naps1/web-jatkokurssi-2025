@@ -1,1 +1,1 @@
-# my-glorious-website
+Centria Web-kehittämisen jatkokurssi 2025
